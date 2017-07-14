@@ -1,0 +1,1 @@
+Welcome to my personal website! It's just a static website showcasing my skills and resume. My website is hosted on an Amazon S3 bucket. You can see it here: http://waynetoddhansen.com!
